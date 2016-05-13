@@ -14,7 +14,7 @@ for root, subFolders, files in os.walk("filtrate/static"):
 
 setup(
     name='django-admin-filtrate',
-    version='0.1.0',
+    version='0.1.0-hh1',
     author='Rune Kaagaard',
     author_email='rumi.kg@gmail.com',
     description='This Django app makes it easier to create custom filters in the change list of Django Admin and supplies a TreeFilter and a DateRangeFilter too.',
